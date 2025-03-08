@@ -4,6 +4,11 @@
     "items": {
         "path": "sample-site",
         "includes": [
+			{
+                "name": "SampleSiteTemplates",
+                "path": "/sitecore/templates/Project/Hackathon2025",
+                "scope": "ItemAndDescendants"
+            },
             {
                 "name": "SampleSite",
                 "path": "/sitecore/content/Hackathon2025",

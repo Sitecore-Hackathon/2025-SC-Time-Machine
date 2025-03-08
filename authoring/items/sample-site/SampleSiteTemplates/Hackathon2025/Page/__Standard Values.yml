@@ -1,0 +1,40 @@
+﻿---
+ID: "bbc371ec-251f-4ceb-b64e-ff547ef88e1e"
+Parent: "4ca61d64-2733-4f90-81a5-0df74b98281b"
+Template: "4ca61d64-2733-4f90-81a5-0df74b98281b"
+Path: /sitecore/templates/Project/Hackathon2025/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4CA61D64-2733-4F90-81A5-0DF74B98281B}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "08395e6f-ea5d-4768-bf61-32210898d199"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250308T123957Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f553c8d-e576-4c73-9d82-20b62519bb9f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250308T123959Z
