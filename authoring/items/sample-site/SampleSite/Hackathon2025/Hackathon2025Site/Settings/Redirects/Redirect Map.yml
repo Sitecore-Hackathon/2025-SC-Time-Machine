@@ -1,0 +1,41 @@
+﻿---
+ID: "bc25e0b9-4af2-420d-8406-efbaf65a5dd4"
+Parent: "ee8d00b3-df5d-4c60-b5a9-1f55ed7cfbbe"
+Template: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Path: /sitecore/content/Hackathon2025/Hackathon2025Site/Settings/Redirects/Redirect Map
+SharedFields:
+- ID: "5ecfffc9-d530-4512-b757-9e9830f07d5a"
+  Hint: UrlMapping
+  Value: %2ffirst=%2Fredirectedfromfirst&%2fsecond=%2Fredirectedfromsecond
+- ID: "980dfa07-41d4-4c4e-ab28-de657afdb6bc"
+  Hint: RedirectType
+  Value: Redirect302
+- ID: "f24d347e-98c2-4995-a14c-b15697ba86e5"
+  Hint: PreserveQueryString
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250308T131209Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28d86d67-e648-4bdc-9c89-07aa9c11a1ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250308T214845Z

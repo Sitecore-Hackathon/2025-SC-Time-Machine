@@ -1,0 +1,49 @@
+﻿---
+ID: "8d9b34c9-4938-44a8-b188-a542e12fd1ca"
+Parent: "3ab2e69e-61cb-46fe-89a9-309835d30d93"
+Template: "4ca61d64-2733-4f90-81a5-0df74b98281b"
+Path: /sitecore/content/Hackathon2025/Hackathon2025Site/Home/Second
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8CB68E03-F53F-4F44-8903-6CA6A6FF6424}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B1F0121B-CD0A-41B8-ABEB-68D307E978B2}"
+              s:ds="{764A3454-509C-4C75-AB11-928F68D7C9AE}"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "08395e6f-ea5d-4768-bf61-32210898d199"
+      Hint: Title
+      Value: Second
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250308T131043Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Second
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6fc67c4-372b-48ce-93b8-4e6f50603df6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250308T132252Z

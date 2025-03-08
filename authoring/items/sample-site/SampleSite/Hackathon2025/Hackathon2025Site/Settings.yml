@@ -1,0 +1,84 @@
+﻿---
+ID: "b4e15eb7-c9a8-48d2-b9f5-4545071c544c"
+Parent: "f6ff91d8-3ac8-499a-a160-2826b6a72f52"
+Template: "a4c70e6f-64d8-46ad-bd40-d52e2d259ada"
+Path: /sitecore/content/Hackathon2025/Hackathon2025Site/Settings
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "0129da3f-8c86-4591-ae32-6ec923413923"
+  Hint: DictionaryDomain
+  Value: "{0C22AD2C-4C4C-448C-A7A1-09889A872EFA}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C2DC4690-AF44-48C7-BB21-90D1AD246732}"
+- ID: "300fb7a0-b27f-44dd-9af0-b37a19723e0e"
+  Hint: RouteTemplateName
+  Value: Settings Route
+- ID: "32ce6bbe-4217-46e5-9335-42793884cbe3"
+  Hint: AppTemplate
+  Value: "{CA6D151D-2DAA-4E3E-93BB-BA3508395B71}"
+- ID: "3e4f559f-8e59-4405-b50d-619811371f6c"
+  Hint: Name
+  Value: Hackathon2025Site
+- ID: "5764d2d4-724d-4313-a81b-9246c911faff"
+  Hint: AppDatasourcesPath
+  Value: "{436978C7-6017-4F71-ABFD-681BB433CE9E}"
+- ID: "5ca117eb-8782-4a4f-9f2f-30de31fc2e34"
+  Hint: PlaceholdersPath
+  Value: "{618F8F78-A703-455F-815D-643EE92462BB}"
+- ID: "72e83c8d-3578-4e50-b4c0-93a78a1729f2"
+  Hint: FilesystemPath
+  Value: /dist/Hackathon2025Site
+- ID: "9016141c-ff51-40f2-9135-40f5161b9784"
+  Hint: ServerSideRenderingEngine
+  Value: http
+- ID: "a7bbad73-b933-49ff-95c8-1c269cb35e7c"
+  Hint: DictionaryPath
+  Value: "{0C22AD2C-4C4C-448C-A7A1-09889A872EFA}"
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{3BCAB9EF-1E4F-4C23-B452-783BB82AA686}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+- ID: "c8d002f9-9518-4c5e-9baa-6617e13f0797"
+  Hint: LayoutPath
+  Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
+- ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
+  Hint: SupportedLanguages
+  Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{F63DA1FE-A03A-42AE-91B8-B0EBC4BA9B39}"
+- ID: "f29428d5-1285-48b8-a884-44057965829a"
+  Hint: RenderingsPath
+  Value: "{5C42E1A5-B1F7-42B5-AC89-454C5B80B3EE}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FEEB907-58F0-44DE-B08C-2F43C063D0A5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250308T124026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9e2e277-9354-4435-8b40-092a43e7c1f6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\schernetsky@uxbee.nl
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250308T124026Z

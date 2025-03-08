@@ -1,0 +1,19 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "nextjs-starter",
+    "items": {
+        "path": "nextjs-starter",
+        "includes": [
+            {
+                "name": "DefaultRenderingHost",
+                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
+                "scope": "singleItem"
+            },
+			{
+                "name": "ApiKey",
+                "path": "/sitecore/system/Settings/Services/API Keys/local",
+                "scope": "singleItem"
+            }
+        ]
+    }
+}

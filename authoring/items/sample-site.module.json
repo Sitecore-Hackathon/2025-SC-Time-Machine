@@ -1,0 +1,14 @@
+{
+    "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "sample-site",
+    "items": {
+        "path": "sample-site",
+        "includes": [
+            {
+                "name": "SampleSite",
+                "path": "/sitecore/content/Hackathon2025",
+                "scope": "ItemAndDescendants"
+            }
+        ]
+    }
+}
