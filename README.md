@@ -1,6 +1,3 @@
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-# Sitecore Hackathon 2025
-
 # Sitecore JSS redirects performance optimization
 
 ## Team name
@@ -62,9 +59,8 @@ Then redirects are used in  **next.config.js** file to configure standalone Next
 Using this approach it is possible to improve performance of NextJs JSS application by reducing requests to Sitecore Experience Edge.
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ [Replace this Video link](#video-link)
+[Sitecore Hackathon 2025. SC Time Machine Team.](https://youtu.be/_OiZkQqazqo)
 
 ## Pre-requisites and Dependencies
 
@@ -94,7 +90,7 @@ Make sure you run the command above (dotnet sitecore login) in context of the re
     dotnet sitecore index schema-populate
     dotnet sitecore index rebuild
 
-If it is OK, visit to the sample home page should open simple page with text - "Home Page"
+If it is OK, visit the sample home page should open simple page with text - "Home Page"
 Home page - [https://nextjs.xmc-starter-js.localhost/](https://nextjs.xmc-starter-js.localhost/)
 
 ## Usage instructions
@@ -117,4 +113,3 @@ should be redirected to [https://nextjs.xmc-starter-js.localhost/redirectedfromf
 ## Comments
 This is a proof of concept of course. In the future it should/can be extracted into a separate NPM package in order to separate it from JSS application itself.
 Also additional features and use cases should be implemented, like multisite. 
-
